@@ -1,0 +1,26 @@
+Boeing-747
+
+Engine: BF90, 12000, 999
+
+Body: Passenger, 450
+
+
+Boeing-747
+
+Engine: BF90, 12000, 999
+
+Body: Freighter, 60000
+
+
+Boeing-747
+
+Engine: BF90CM, 15000, 1300
+
+Body: Freighter, 60000
+
+
+Boeing-747
+
+Engine: FE50, 8000, 784
+
+Body: Passenger, 450
